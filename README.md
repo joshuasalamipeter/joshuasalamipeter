@@ -14,6 +14,6 @@ Check out my repositories for various projects.
 ## 🌍 Let's Connect!
 I am open to **learning, collaborating**, and making a meaningful **impact** in the data science community and beyond. Feel free to reach out!
 ### 📫 Socials
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jsalamipeter) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/jsalamipeter) [![My Skills](https://skillicons.dev/icons?i=github)]([https://github.com/joshuasalamipeter) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jsalamipeter/) [![My Skills](https://skillicons.dev/icons?i=gmail)](jsalamipeter@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jsalamipeter) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/jsalamipeter) [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/joshuasalamipeter) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jsalamipeter/) [![My Skills](https://skillicons.dev/icons?i=gmail)](jsalamipeter@gmail.com)
 
 Let's build and innovate together! 🚀
