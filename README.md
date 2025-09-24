@@ -3,7 +3,7 @@
 ## About Me
 I am a passionate **Data Scientist** with a strong background in **Statistics** and expertise in **Machine Learning, Data Analysis, and Deep Learning**. I hold a degree in **Statistics from the University of Jos** and a **Data Science certification from WorldQuant University**. Currently, I am advancing my knowledge in **Deep Learning and Computer Vision** at WorldQuant University.
 
-I am deeply interested in applying **data-driven solutions** to real-world problems**. 
+I am deeply interested in applying **data-driven solutions** to **real-world problems**. 
 
 ## 📂 Projects & Repositories
 Check out my repositories for various projects.
